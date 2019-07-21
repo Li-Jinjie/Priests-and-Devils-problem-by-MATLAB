@@ -33,5 +33,7 @@ To solve Priests and Devils problem(传教士与野人过河问题) in MATLAB. T
    isdeep=1 深度优先DFS; 0 广度优先BFS  如果选了启发式这个选项没用
 
    num_cjs=8;  %传道士人数 the number of Priests
+   
    num_yr=8;   %野人人数  the number of Devils
+   
    num_boat=4;  %船上人数  the number of people one boat can carry
